@@ -10,7 +10,7 @@ This is a simple [FaaS](https://github.com/openfaas/faas) function inspired by B
 ## Usage
 **Create a new function**
 ```
-$ faas-cli new --lang go identicon
+$ faas-cli new --lang Dockerfile identicon
 ```
 
 **Clone this repo as the function**
